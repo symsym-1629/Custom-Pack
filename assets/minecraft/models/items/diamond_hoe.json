@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:items/handheld",
+    "textures": {
+      "layer0": "minecraft:items/diamond_hoe"
+    },
+    "overrides": [
+      {"predicate": {"custom_model_data":1234567}, "model": "items/backpack"}
+    ]
+}
